@@ -1,0 +1,46 @@
+
+*{
+    padding: 0px;
+    margin: 0px;}
+
+.thumbnail{
+    width: 100%;
+}
+
+.profilepicture{
+    width: 50px;
+    border-radius: 25px
+}
+
+.video-title{
+    width: 125%;
+}
+
+
+
+
+.div-every{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+
+
+
+.all{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+.video-title{
+    font-family: arial;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+.video-stat,
+.video-author{
+    font-family: arial;
+    color: grey;
+    font-size: 12px;
+    margin-bottom: 3px;
+}
