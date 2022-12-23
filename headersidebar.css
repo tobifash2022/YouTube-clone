@@ -157,7 +157,7 @@ h3 {
 .div-twitter,
 .div-gmail,
 .div-youtube,
-.div-browser {
+.div-Application {
   font-family: arial;
   font-size: 8px;
   height: 24px;
@@ -172,7 +172,7 @@ h3 {
 .twitter,
 .gmail,
 .youtube,
-.browser {
+.Application {
   height: 24px;
 }
 .div-not {
